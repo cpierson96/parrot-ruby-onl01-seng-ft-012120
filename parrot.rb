@@ -3,4 +3,4 @@ def parrot
   phrase= "Squawk!"
 end  
 def print_and_return_name
-  
+  puts ""
