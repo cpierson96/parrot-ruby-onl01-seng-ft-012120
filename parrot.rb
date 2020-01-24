@@ -1,2 +1,2 @@
 def parrot
-  p
+  parrot
